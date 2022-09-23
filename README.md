@@ -1,11 +1,11 @@
 # SAJJAD-BD-71-POWER
 
-git clone https://github.com/SHAHZAD-AAHME/SAJJAD-BD-71-POWER
+ & git clone https://github.com/SHAHZAD-AAHME/SAJJAD-BD-71-POWER
 
-ls
+ & ls
 
-cd SAJJAD-BD-71-POWER
+ & cd SAJJAD-BD-71-POWER
 
-ls
+ & ls
 
-python SAJJAD-BD-71-enc.py
+ & python SAJJAD-BD-71-enc.py
